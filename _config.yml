@@ -1,0 +1,28 @@
+name: ChristianHindemith
+favicon: null
+layout_spectrum: 0.31050770077854395
+typography_spectrum: 0.05155865871347487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9535579467192292
+  lightness: 0.2745515825226903
+  saturation: 0.14345969446003437
+  rhythmicContrast: 0.2996037802658975
+purpose: []
